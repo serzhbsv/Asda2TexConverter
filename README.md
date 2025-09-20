@@ -1,2 +1,3 @@
 # Asda2TexConverter
-Asda2 Texture(.tex file) Converter
+C# .NET v4.0 Sorcecode Asda2 Texture(.tex file) Converter
+build VS2010 and VS2015
